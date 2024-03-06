@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T16:50:38.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HzDZ1LMsLwVl4eNWYq4W" version="24.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-06T16:52:59.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NezNBNo2tjx6bnzL8Yys" version="24.0.1" type="github" pages="3">
   <diagram name="Página-1" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="1134" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,8 +267,21 @@
             <mxPoint x="370" y="435" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MwkV6WTu4K9woIgAqhW--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="MwkV6WTu4K9woIgAqhW--17" target="MwkV6WTu4K9woIgAqhW--21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="730" />
+              <mxPoint x="530" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwkV6WTu4K9woIgAqhW--23" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;background-color:#414104;&quot;&gt;updateState&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#3eabe6;&quot;&gt;LayerElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habdElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;HotAxleBearingDetector&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MwkV6WTu4K9woIgAqhW--22">
+          <mxGeometry x="-0.1443" y="-1" relative="1" as="geometry">
+            <mxPoint x="52" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MwkV6WTu4K9woIgAqhW--17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="420" y="490" width="10" height="40" as="geometry" />
+          <mxGeometry x="420" y="490" width="10" height="290" as="geometry" />
         </mxCell>
         <mxCell id="MwkV6WTu4K9woIgAqhW--18" value="update&amp;lt;SPECIFICSTATE&amp;gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="MwkV6WTu4K9woIgAqhW--17" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -279,7 +292,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MwkV6WTu4K9woIgAqhW--19" value="&lt;div&gt;updateObjectDtectorState(FallingObjectsDetector)&lt;/div&gt;&lt;div&gt;updatecCrossWindDetectorState(CrossWindDetector)&lt;/div&gt;&lt;div&gt;updateHotAxleBearingDetectorState(HotAxleBearingDetector)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="360" height="60" as="geometry" />
+          <mxGeometry x="450" y="500" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MwkV6WTu4K9woIgAqhW--20" value="&lt;div style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getAdapterManager&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;updateHABDetectorState&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;                &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;view&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getLayer&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#efc090;&quot;&gt;LAYER_FALLING_OBJECTS_DETECTOR&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getLayerElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getId&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;()), &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="585" width="850" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MwkV6WTu4K9woIgAqhW--21" value="com.indra.davinci.gui.synopticmodule.viewsynoptic.process.adapter.&lt;div&gt;SynopticHABDStateAdapter&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="890" y="285" width="100" height="495" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
