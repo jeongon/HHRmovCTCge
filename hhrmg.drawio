@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T15:57:49.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3QIYpxfjdlFHFPm7EVHc" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T16:30:41.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ydd-IelxqpEyrvZtH1QU" version="24.0.1" type="github" pages="2">
   <diagram name="Página-1" id="drJX8wcqLLmCFykuWYqo">
-    <mxGraphModel dx="2049" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,6 +79,60 @@
         </mxCell>
         <mxCell id="AtJOkKgc5_H_N_osKVQ6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AtJOkKgc5_H_N_osKVQ6-7" target="AtJOkKgc5_H_N_osKVQ6-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T65MDseQnMiwYh86hHWJ" name="Página-2">
+    <mxGraphModel dx="1621" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="hbGdOo2C__Q1L7NtaoYQ-1" target="hbGdOo2C__Q1L7NtaoYQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-4" value="&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;parseRecordClass(&lt;/span&gt;&lt;/span&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 13.3333px; white-space-collapse: preserve;&quot;&gt;nu.xom.Element)&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hbGdOo2C__Q1L7NtaoYQ-3">
+          <mxGeometry x="-0.2041" y="-2" relative="1" as="geometry">
+            <mxPoint x="33" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-1" value="com.indra.davinci.messaging.movioladata.parser.notification.&lt;div&gt;RecordClassParser&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-2" value="com.indra.davinci.messaging.movioladata.parser.notification.ctcelement.&lt;div&gt;DimetronicCTCElementRecordClassParser&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="590" y="110" width="150" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="hbGdOo2C__Q1L7NtaoYQ-5" target="hbGdOo2C__Q1L7NtaoYQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="260" />
+              <mxPoint x="180" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-8" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;dispatchRecDataNotification&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#d197d9;&quot;&gt;Map&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#bfa4a4;&quot;&gt;String&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#bfa4a4;&quot;&gt;String&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&amp;gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;envelope&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;, &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;String&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;xmlContent&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hbGdOo2C__Q1L7NtaoYQ-6">
+          <mxGeometry x="0.3" y="2" relative="1" as="geometry">
+            <mxPoint x="-57" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-5" value="com.indra.davinci.gui.movioladata.connector.mom.ge.callback.&lt;div&gt;RecDataCallback&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="hbGdOo2C__Q1L7NtaoYQ-7" target="hbGdOo2C__Q1L7NtaoYQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="310" />
+              <mxPoint x="460" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-10" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(216, 216, 216); background-color: rgb(47, 52, 54); text-decoration-line: underline; text-decoration-color: rgb(244, 200, 45); text-decoration-style: wavy;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(190, 214, 255); background-color: rgb(47, 52, 54); text-decoration-line: underline; text-decoration-color: rgb(244, 200, 45); text-decoration-style: wavy;&quot;&gt;factory&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 216, 216); background-color: rgb(47, 52, 54); text-decoration-line: underline; text-decoration-color: rgb(244, 200, 45); text-decoration-style: wavy;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(190, 214, 255); background-color: rgb(47, 52, 54); text-decoration-line: underline; text-decoration-color: rgb(244, 200, 45); text-decoration-style: wavy;&quot;&gt;parse&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 216, 216); background-color: rgb(47, 52, 54); text-decoration-line: underline; text-decoration-color: rgb(244, 200, 45); text-decoration-style: wavy;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(121, 171, 255); background-color: rgb(47, 52, 54); text-decoration-line: underline; text-decoration-color: rgb(244, 200, 45); text-decoration-style: wavy;&quot;&gt;xmlContent&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 216, 216); background-color: rgb(47, 52, 54); text-decoration-line: underline; text-decoration-color: rgb(244, 200, 45); text-decoration-style: wavy;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hbGdOo2C__Q1L7NtaoYQ-9">
+          <mxGeometry x="-0.2684" y="4" relative="1" as="geometry">
+            <mxPoint x="30" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hbGdOo2C__Q1L7NtaoYQ-7" value="com.indra.davinci.gui.movioladata.connector.mom.ge.&lt;div&gt;EventManagerConnector&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="150" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
