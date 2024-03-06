@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T16:52:59.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NezNBNo2tjx6bnzL8Yys" version="24.0.1" type="github" pages="3">
-  <diagram name="Página-1" id="drJX8wcqLLmCFykuWYqo">
+<mxfile host="app.diagrams.net" modified="2024-03-06T16:53:54.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BJasiAIQF0kkyQ45EHWG" version="24.0.1" type="github" pages="3">
+  <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="1134" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -83,8 +83,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="T65MDseQnMiwYh86hHWJ" name="Página-2">
-    <mxGraphModel dx="1761" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="T65MDseQnMiwYh86hHWJ" name="DimetronicCTCElementRecordClassParser">
+    <mxGraphModel dx="1961" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,8 +212,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="z4xBztVJPkZ9wvqVAFcs" name="Página-3">
-    <mxGraphModel dx="1621" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="z4xBztVJPkZ9wvqVAFcs" name="SynopticHABDStateAdapter">
+    <mxGraphModel dx="1961" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
