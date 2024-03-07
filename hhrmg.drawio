@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T08:47:20.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KJnNZPr8gtu5hghaf797" version="24.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-07T13:16:05.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mWMk91YUN2sA1mLIrb6g" version="24.0.2" type="github" pages="4">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
-    <mxGraphModel dx="1588" dy="2533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="2645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T65MDseQnMiwYh86hHWJ" name="DimetronicCTCElementRecordClassParser">
-    <mxGraphModel dx="1761" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,20 +222,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z4xBztVJPkZ9wvqVAFcs" name="SynopticHABDStateAdapter">
-    <mxGraphModel dx="1961" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MwkV6WTu4K9woIgAqhW--1" value="com.indra.davinci.gui.synopticmodule.viewsynoptic.&lt;div&gt;SynopticView&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--1" value="com.indra.davinci.gui.synopticmodule.viewsynoptic.&lt;div&gt;SynopticView&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="320" y="190" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--7" value="com.indra.davinci.gui.synopticmodule.process.synoptic.&lt;div&gt;ViewFactoryProcess&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--7" value="com.indra.davinci.gui.synopticmodule.process.synoptic.&lt;div&gt;ViewFactoryProcess&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MwkV6WTu4K9woIgAqhW--7">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="MwkV6WTu4K9woIgAqhW--7" vertex="1">
           <mxGeometry x="45" y="130" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--9" value="task.run()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="MwkV6WTu4K9woIgAqhW--7" target="MwkV6WTu4K9woIgAqhW--8">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--9" value="task.run()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="MwkV6WTu4K9woIgAqhW--7" target="MwkV6WTu4K9woIgAqhW--8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="110" as="sourcePoint" />
             <Array as="points">
@@ -243,10 +243,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="MwkV6WTu4K9woIgAqhW--7">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="MwkV6WTu4K9woIgAqhW--7" vertex="1">
           <mxGeometry x="50" y="190" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--11" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#2f3436;&quot;&gt;updateQueuedICTCData&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;();&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="MwkV6WTu4K9woIgAqhW--10" parent="MwkV6WTu4K9woIgAqhW--7">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--11" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#2f3436;&quot;&gt;updateQueuedICTCData&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;();&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="MwkV6WTu4K9woIgAqhW--7" target="MwkV6WTu4K9woIgAqhW--10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="170" as="sourcePoint" />
             <Array as="points">
@@ -254,7 +254,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" target="MwkV6WTu4K9woIgAqhW--1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" target="MwkV6WTu4K9woIgAqhW--1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="420" as="sourcePoint" />
             <mxPoint x="310" y="420" as="targetPoint" />
@@ -263,20 +263,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--13" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#2f3436;&quot;&gt;updateICTCData&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#79abff;background-color:#2f3436;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;);&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MwkV6WTu4K9woIgAqhW--12">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--13" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#2f3436;&quot;&gt;updateICTCData&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#79abff;background-color:#2f3436;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;);&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MwkV6WTu4K9woIgAqhW--12" vertex="1" connectable="0">
           <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="420" y="430" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--15" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#414104;&quot;&gt;updateICTCDataImpl&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="MwkV6WTu4K9woIgAqhW--14" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--15" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#414104;&quot;&gt;updateICTCDataImpl&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="MwkV6WTu4K9woIgAqhW--14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="435" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="MwkV6WTu4K9woIgAqhW--17" target="MwkV6WTu4K9woIgAqhW--21">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="MwkV6WTu4K9woIgAqhW--17" target="MwkV6WTu4K9woIgAqhW--21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="730" />
@@ -284,15 +284,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--23" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;background-color:#414104;&quot;&gt;updateState&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#3eabe6;&quot;&gt;LayerElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habdElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;HotAxleBearingDetector&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MwkV6WTu4K9woIgAqhW--22">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--23" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;background-color:#414104;&quot;&gt;updateState&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#3eabe6;&quot;&gt;LayerElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habdElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;HotAxleBearingDetector&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MwkV6WTu4K9woIgAqhW--22" vertex="1" connectable="0">
           <mxGeometry x="-0.1443" y="-1" relative="1" as="geometry">
             <mxPoint x="52" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="420" y="490" width="10" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--18" value="update&amp;lt;SPECIFICSTATE&amp;gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="MwkV6WTu4K9woIgAqhW--17" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--18" value="update&amp;lt;SPECIFICSTATE&amp;gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" target="MwkV6WTu4K9woIgAqhW--17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="470" as="sourcePoint" />
             <Array as="points">
@@ -300,14 +300,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--19" value="&lt;div&gt;updateObjectDtectorState(FallingObjectsDetector)&lt;/div&gt;&lt;div&gt;updatecCrossWindDetectorState(CrossWindDetector)&lt;/div&gt;&lt;div&gt;updateHotAxleBearingDetectorState(HotAxleBearingDetector)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--19" value="&lt;div&gt;updateObjectDtectorState(FallingObjectsDetector)&lt;/div&gt;&lt;div&gt;updatecCrossWindDetectorState(CrossWindDetector)&lt;/div&gt;&lt;div&gt;updateHotAxleBearingDetectorState(HotAxleBearingDetector)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="500" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--20" value="&lt;div style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getAdapterManager&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;updateHABDetectorState&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;                &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;view&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getLayer&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#efc090;&quot;&gt;LAYER_FALLING_OBJECTS_DETECTOR&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getLayerElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getId&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;()), &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--20" value="&lt;div style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getAdapterManager&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;updateHABDetectorState&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;                &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;view&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getLayer&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#efc090;&quot;&gt;LAYER_FALLING_OBJECTS_DETECTOR&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getLayerElement&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getId&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;()), &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;habd&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="460" y="585" width="850" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MwkV6WTu4K9woIgAqhW--21" value="com.indra.davinci.gui.synopticmodule.viewsynoptic.process.adapter.&lt;div&gt;SynopticHABDStateAdapter&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="MwkV6WTu4K9woIgAqhW--21" value="com.indra.davinci.gui.synopticmodule.viewsynoptic.process.adapter.&lt;div&gt;SynopticHABDStateAdapter&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="890" y="285" width="100" height="495" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eLt68GiDhOj6pJiRGuA8" name="ALARMAS">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6hJ08A8WCHV0k2GTl1ex-3" value="com.indra.davinci.gui.synopticmodule.viewsynoptic.&lt;div&gt;SynopticView&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6hJ08A8WCHV0k2GTl1ex-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="6hJ08A8WCHV0k2GTl1ex-3">
+          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6hJ08A8WCHV0k2GTl1ex-5" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;background-color:#414104;&quot;&gt;updateICTCDataImpl&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#d197d9;&quot;&gt;List&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&amp;lt;? &lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;extends&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#d197d9;&quot;&gt;ICTCData&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&amp;gt; &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;dataList&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="6hJ08A8WCHV0k2GTl1ex-3">
+          <mxGeometry x="0.0036" width="60" relative="1" as="geometry">
+            <mxPoint x="90" y="320" as="sourcePoint" />
+            <mxPoint x="150" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hJ08A8WCHV0k2GTl1ex-6" value="&lt;div style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;p style=&quot;text-align: left; margin: 0px;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; (&lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;value&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;instanceof&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;Department&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;) {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot;color:#c7dd0c;&quot;&gt;// &lt;/span&gt;&lt;span style=&quot;color: rgb(199, 221, 12); text-decoration-line: underline; text-decoration-color: rgb(253, 170, 211); text-decoration-style: wavy;&quot;&gt;Instalación&lt;/span&gt;&lt;span style=&quot;color:#c7dd0c;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(199, 221, 12); text-decoration-line: underline; text-decoration-color: rgb(253, 170, 211); text-decoration-style: wavy;&quot;&gt;de&lt;/span&gt;&lt;span style=&quot;color:#c7dd0c;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(199, 221, 12); text-decoration-line: underline; text-decoration-color: rgb(253, 170, 211); text-decoration-style: wavy;&quot;&gt;circulación&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;   ((&lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;Department&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;value&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;setDepartmentLabels&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(((&lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;Department&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;value&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getCentralCRC&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(),&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;   ((&lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;Department&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;value&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;).&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;getId&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;());&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;   &lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;updateDepartmentState&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;((&lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;Department&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;) &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;value&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;  }&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="660" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
