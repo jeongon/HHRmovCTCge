@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T16:46:41.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2c9tMR1cm8SKlpVAB60E" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-19T16:47:59.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nYTWkhoIpVl2GU-DTLBA" version="24.0.7" type="github" pages="5">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="2876" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -483,7 +483,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_WnHNZiXVADqHqqNX68--1" value="ctc&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="520" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="_WnHNZiXVADqHqqNX68--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="_WnHNZiXVADqHqqNX68--2" target="_WnHNZiXVADqHqqNX68--1">
           <mxGeometry relative="1" as="geometry" />
@@ -494,12 +494,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_WnHNZiXVADqHqqNX68--2" value="ence" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="110" y="40" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+        <mxCell id="_WnHNZiXVADqHqqNX68--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="_WnHNZiXVADqHqqNX68--2" target="_WnHNZiXVADqHqqNX68--1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="250" as="sourcePoint" />
             <mxPoint x="490" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="326" y="251" />
+              <mxPoint x="326" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_WnHNZiXVADqHqqNX68--6" value="Circuito Via/Eje&amp;nbsp; &amp;nbsp;bloqueado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_WnHNZiXVADqHqqNX68--5">
