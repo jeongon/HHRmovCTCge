@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T15:02:18.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4xRIYmNodxDiXFu3Y4pc" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-20T15:06:15.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Mk-60iAHZXXlS-XFdob8" version="24.0.7" type="github" pages="7">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
         <mxCell id="_WnHNZiXVADqHqqNX68--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="_WnHNZiXVADqHqqNX68--2" target="_WnHNZiXVADqHqqNX68--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--4" value="TercerCarril&amp;nbsp; (LIBRE u oc1 oc2 oc3)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WnHNZiXVADqHqqNX68--3" vertex="1" connectable="0">
+        <mxCell id="_WnHNZiXVADqHqqNX68--4" value="TercerCarril&amp;nbsp; (LIBRE u occUIC occCONV occDOBLE)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WnHNZiXVADqHqqNX68--3" vertex="1" connectable="0">
           <mxGeometry x="-0.0861" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -506,24 +506,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--6" value="Circuito Via/Eje&amp;nbsp; &amp;nbsp;bloqueado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WnHNZiXVADqHqqNX68--5" vertex="1" connectable="0">
+        <mxCell id="_WnHNZiXVADqHqqNX68--6" value="Circuito Via/Contador Ejes&amp;nbsp; &amp;nbsp;ENCLAVADO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WnHNZiXVADqHqqNX68--5" vertex="1" connectable="0">
           <mxGeometry x="-0.0861" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--8" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="_WnHNZiXVADqHqqNX68--8" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="30" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_WnHNZiXVADqHqqNX68--9" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--10" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="_WnHNZiXVADqHqqNX68--10" value="3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--11" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="_WnHNZiXVADqHqqNX68--11" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="470" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--12" value="5 no 3carril" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="_WnHNZiXVADqHqqNX68--12" value="5 no 3carril" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="650" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_WnHNZiXVADqHqqNX68--13" value="cv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
