@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T15:06:15.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Mk-60iAHZXXlS-XFdob8" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-20T15:06:55.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2VqC5-woIo8zaHbmLDO_" version="24.0.7" type="github" pages="7">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -538,8 +538,8 @@
         <mxCell id="_WnHNZiXVADqHqqNX68--16" value="OC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="530" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_WnHNZiXVADqHqqNX68--17" value="UIC&lt;div&gt;CONV&lt;/div&gt;&lt;div&gt;DOBLE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="290" width="190" height="90" as="geometry" />
+        <mxCell id="_WnHNZiXVADqHqqNX68--17" value="&lt;div&gt;ocupaciones&lt;/div&gt;UIC&lt;div&gt;CONV&lt;/div&gt;&lt;div&gt;DOBLE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="310" y="280" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_WnHNZiXVADqHqqNX68--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
