@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T08:15:03.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ra0GWYO4ss6Eh-spEZ-i" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-20T14:55:33.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gjc7ty29ZLUEYSWF7IRy" version="24.0.7" type="github" pages="7">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
-    <mxGraphModel dx="3695" dy="2645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -572,7 +572,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="uOBWmorX-sXlcLSMMqbk" name="MOVIOLA">
+  <diagram id="uOBWmorX-sXlcLSMMqbk" name="MOVIOLA filtro BBDD">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -607,6 +607,17 @@
             <mxPoint x="617" y="460.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rc4svrUEjg1B-dXRsABj-1" value="usrrectopctchsrocc20200925&quot;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;TOPO_LY_D_DETECTORS&lt;/div&gt;&lt;div&gt;TOPO_LY_D_LAYOUTCONNTYPE&lt;/div&gt;&lt;div&gt;TOPO_LY_D_MOVABLETYPE&lt;/div&gt;&lt;div&gt;TOPO_LY_D_PARITYTYPE&lt;/div&gt;&lt;div&gt;TOPO_LY_D_TRACKITEMTYPE&lt;/div&gt;&lt;div&gt;TOPO_LY_E_ALFANUMDISP&lt;/div&gt;&lt;div&gt;TOPO_LY_E_AXLECOUNTER&lt;/div&gt;&lt;div&gt;TOPO_LY_E_BCA&lt;/div&gt;&lt;div&gt;TOPO_LY_E_CATENARY&lt;/div&gt;&lt;div&gt;TOPO_LY_E_DEP&lt;/div&gt;&lt;div&gt;TOPO_LY_E_DETECTORS&lt;/div&gt;&lt;div&gt;TOPO_LY_E_DLOCK&lt;/div&gt;&lt;div&gt;TOPO_LY_E_DS&lt;/div&gt;&lt;div&gt;TOPO_LY_E_EOM&lt;/div&gt;&lt;div&gt;TOPO_LY_E_GC&lt;/div&gt;&lt;div&gt;TOPO_LY_E_INTERLOCK&lt;/div&gt;&lt;div&gt;TOPO_LY_E_LAYOUTCONNDATA&lt;/div&gt;&lt;div&gt;TOPO_LY_E_LM&lt;/div&gt;&lt;div&gt;TOPO_LY_E_PCI&lt;/div&gt;&lt;div&gt;TOPO_LY_E_SWITCH&lt;/div&gt;&lt;div&gt;TOPO_LY_E_TFD&lt;/div&gt;&lt;div&gt;TOPO_LY_E_TRACKCIRCUIT&lt;/div&gt;&lt;div&gt;TOPO_LY_E_TRACKITEM&lt;/div&gt;&lt;div&gt;TOPO_SN_D_DIRECTIONTYPE&lt;/div&gt;&lt;div&gt;TOPO_SN_D_SIGNALTYPE&lt;/div&gt;&lt;div&gt;TOPO_SN_D_TIMERTYPE&lt;/div&gt;&lt;div&gt;TOPO_SN_E_BOR&lt;/div&gt;&lt;div&gt;TOPO_SN_E_EOR&lt;/div&gt;&lt;div&gt;TOPO_SN_E_LEVELCROSSING&lt;/div&gt;&lt;div&gt;TOPO_SN_E_LOCK&lt;/div&gt;&lt;div&gt;TOPO_SN_E_SIGNAL&lt;/div&gt;&lt;div&gt;TOPO_SN_E_TIMER&lt;/div&gt;&lt;div&gt;TOPO_SN_E_VIRTUAL_SIGNAL&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="360" height="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rCguhjuWXdUnH-qeHz0a" name="synoptic DIFERIMETROS">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
