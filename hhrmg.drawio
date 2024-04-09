@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T09:06:46.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eUb4Nyuw-DGudPdIow8B" version="24.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-09T10:27:05.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tp4uZGJcfVf5yHuQIL2b" version="24.2.2" type="github" pages="8">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cTtbCgsvUZh1GIem_GBy-1" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;CE1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_WnHNZiXVADqHqqNX68--3">
+        <mxCell id="cTtbCgsvUZh1GIem_GBy-1" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;CE1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WnHNZiXVADqHqqNX68--3" vertex="1" connectable="0">
           <mxGeometry x="0.6024" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -516,7 +516,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cTtbCgsvUZh1GIem_GBy-2" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;CV&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_WnHNZiXVADqHqqNX68--5">
+        <mxCell id="cTtbCgsvUZh1GIem_GBy-2" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px;&quot;&gt;CV&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WnHNZiXVADqHqqNX68--5" vertex="1" connectable="0">
           <mxGeometry x="0.5839" y="-4" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GXgZhrG9xX3KvjrSp0ip" name="Página-8">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -934,14 +934,17 @@
         <mxCell id="56zHS0Pgg8HM5X0b88mt-25" value="PI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXmKwNpFQ4SgxFHNQYjd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXmKwNpFQ4SgxFHNQYjd-1" target="56zHS0Pgg8HM5X0b88mt-22">
+        <mxCell id="bXmKwNpFQ4SgxFHNQYjd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bXmKwNpFQ4SgxFHNQYjd-1" target="56zHS0Pgg8HM5X0b88mt-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXmKwNpFQ4SgxFHNQYjd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXmKwNpFQ4SgxFHNQYjd-1" target="56zHS0Pgg8HM5X0b88mt-21">
+        <mxCell id="bXmKwNpFQ4SgxFHNQYjd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bXmKwNpFQ4SgxFHNQYjd-1" target="56zHS0Pgg8HM5X0b88mt-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXmKwNpFQ4SgxFHNQYjd-1" value="TELEMANDO&lt;div&gt;PCE/CEC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bXmKwNpFQ4SgxFHNQYjd-1" value="TELEMANDO&lt;div&gt;PCE/CEC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDgOAzygWkghkiiduM9H-1" value="OPEX:&amp;nbsp;&lt;div&gt;Trabajos para sistemas que están entregados (en mantenimiento): TMS, ROUTER, PLANIFICADOR.... CDC&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;CAPEX:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Trabajos para que validen sistemas y pasen a produccion&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="110" y="930" width="550" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
