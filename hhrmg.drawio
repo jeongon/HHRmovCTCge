@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T12:44:23.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="G-jgEqNeqR6PMaBHJYiP" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T12:44:49.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="p3oO7jAd678zmmrC3EX1" version="24.2.3" type="github" pages="8">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -993,13 +993,13 @@
           <mxGeometry x="40" y="1000" width="700" height="440" as="geometry" />
         </mxCell>
         <mxCell id="NGydVGdJo4HHjrBLo3US-12" value="&lt;div&gt;Entorno Simulación PRODUCCION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;CTC PROD&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Simulacion (ultima versin liberada)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;VPN noFortiClient: SecoClient&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;abdulaziz&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1470" width="200" height="150" as="geometry" />
+          <mxGeometry x="80" y="1580" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NGydVGdJo4HHjrBLo3US-13" value="&lt;div&gt;Entorno Simulación DESARROLLO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;CTC pendiente de Siemens&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Simulacion (ultima versin liberada)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1470" width="200" height="120" as="geometry" />
+          <mxGeometry x="295" y="1580" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NGydVGdJo4HHjrBLo3US-14" value="&lt;div&gt;Entorno Simulación LOCAL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;no CTC -&amp;gt; CommandsTool&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Simulacion (version dev)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1470" width="200" height="120" as="geometry" />
+          <mxGeometry x="510" y="1580" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
