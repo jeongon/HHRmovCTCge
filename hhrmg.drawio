@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T08:24:31.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sxWsoVCM8Czpohs0tjOJ" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T08:25:31.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bIblTK3BIiRsKIJVNeIR" version="24.2.3" type="github" pages="8">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -970,9 +970,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NGydVGdJo4HHjrBLo3US-5" value="representacion &lt;br&gt;hacia CTC a traves de S2ENCE ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="NGydVGdJo4HHjrBLo3US-4">
+        <mxCell id="NGydVGdJo4HHjrBLo3US-5" value="representacion &lt;br&gt;hacia CTC &lt;br&gt;a traves de S2ENCE ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="NGydVGdJo4HHjrBLo3US-4">
           <mxGeometry x="0.1695" y="2" relative="1" as="geometry">
-            <mxPoint x="-18" y="-28" as="offset" />
+            <mxPoint x="-14" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NGydVGdJo4HHjrBLo3US-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=-0.008;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=cross;endFill=0;" edge="1" parent="1" source="56zHS0Pgg8HM5X0b88mt-4" target="56zHS0Pgg8HM5X0b88mt-8">
@@ -984,7 +984,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NGydVGdJo4HHjrBLo3US-7" value="representacion &lt;br&gt;hacia CTC ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NGydVGdJo4HHjrBLo3US-6">
+        <mxCell id="NGydVGdJo4HHjrBLo3US-7" value="representacion &lt;br&gt;hacia CTC&amp;nbsp;&lt;br&gt;&amp;nbsp;a través de PSC?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="NGydVGdJo4HHjrBLo3US-6">
           <mxGeometry x="0.1695" y="2" relative="1" as="geometry">
             <mxPoint x="12" y="-9" as="offset" />
           </mxGeometry>
