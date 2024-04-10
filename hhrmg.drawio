@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T10:27:05.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tp4uZGJcfVf5yHuQIL2b" version="24.2.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T08:19:37.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BvWcilIAlaPWnTE2Vmp5" version="24.2.3" type="github" pages="8">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GXgZhrG9xX3KvjrSp0ip" name="Página-8">
-    <mxGraphModel dx="934" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -862,8 +862,8 @@
         <mxCell id="56zHS0Pgg8HM5X0b88mt-3" value="IHM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="56zHS0Pgg8HM5X0b88mt-4" value="CATENARIA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="56zHS0Pgg8HM5X0b88mt-4" value="CATENARIA&lt;div&gt;&lt;br&gt;(pte de verificar si actualiza en el sim o ctc o sólo telemando)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="56zHS0Pgg8HM5X0b88mt-5" value="DETECTORES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
@@ -888,7 +888,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="56zHS0Pgg8HM5X0b88mt-8" value="&lt;div&gt;TELEMANDO&lt;/div&gt;PSC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="56zHS0Pgg8HM5X0b88mt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="56zHS0Pgg8HM5X0b88mt-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -943,7 +943,7 @@
         <mxCell id="bXmKwNpFQ4SgxFHNQYjd-1" value="TELEMANDO&lt;div&gt;PCE/CEC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="680" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aDgOAzygWkghkiiduM9H-1" value="OPEX:&amp;nbsp;&lt;div&gt;Trabajos para sistemas que están entregados (en mantenimiento): TMS, ROUTER, PLANIFICADOR.... CDC&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;CAPEX:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Trabajos para que validen sistemas y pasen a produccion&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=7;" vertex="1" parent="1">
+        <mxCell id="aDgOAzygWkghkiiduM9H-1" value="OPEX:&amp;nbsp;&lt;div&gt;Trabajos para sistemas que están entregados (en mantenimiento): TMS, ROUTER, PLANIFICADOR.... CDC&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;CAPEX:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Trabajos para que validen sistemas y pasen a produccion&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=7;" parent="1" vertex="1">
           <mxGeometry x="110" y="930" width="550" height="150" as="geometry" />
         </mxCell>
       </root>
