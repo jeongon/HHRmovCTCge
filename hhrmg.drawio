@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T08:20:11.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="U5dF45mt7tI_FRQMXz_N" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T08:24:31.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sxWsoVCM8Czpohs0tjOJ" version="24.2.3" type="github" pages="8">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -859,11 +859,25 @@
         <mxCell id="56zHS0Pgg8HM5X0b88mt-1" value="ENCE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="370" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="56zHS0Pgg8HM5X0b88mt-3" value="IHM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="56zHS0Pgg8HM5X0b88mt-3" value="IHM&lt;div&gt;Visor de campo y otros&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NGydVGdJo4HHjrBLo3US-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" source="56zHS0Pgg8HM5X0b88mt-4" target="56zHS0Pgg8HM5X0b88mt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="460" />
+              <mxPoint x="60" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGydVGdJo4HHjrBLo3US-3" value="representacion en Visor de Campo ? SI?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NGydVGdJo4HHjrBLo3US-2">
+          <mxGeometry x="0.1695" y="2" relative="1" as="geometry">
+            <mxPoint x="65" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="56zHS0Pgg8HM5X0b88mt-4" value="CATENARIA&lt;div&gt;&lt;br&gt;(pte de verificar si actualiza en el sim o ctc o sólo telemando)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="56zHS0Pgg8HM5X0b88mt-5" value="DETECTORES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
@@ -945,6 +959,35 @@
         </mxCell>
         <mxCell id="aDgOAzygWkghkiiduM9H-1" value="OPEX:&amp;nbsp;&lt;div&gt;Trabajos para sistemas que están entregados (en mantenimiento): TMS, ROUTER, PLANIFICADOR.... CDC&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;CAPEX:&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Trabajos para que validen sistemas y pasen a produccion&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=7;" parent="1" vertex="1">
           <mxGeometry x="110" y="930" width="550" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NGydVGdJo4HHjrBLo3US-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=cross;endFill=0;" edge="1" parent="1" source="56zHS0Pgg8HM5X0b88mt-4" target="56zHS0Pgg8HM5X0b88mt-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="730" as="targetPoint" />
+            <mxPoint x="250" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="440" />
+              <mxPoint x="270" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGydVGdJo4HHjrBLo3US-5" value="representacion &lt;br&gt;hacia CTC a traves de S2ENCE ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="NGydVGdJo4HHjrBLo3US-4">
+          <mxGeometry x="0.1695" y="2" relative="1" as="geometry">
+            <mxPoint x="-18" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGydVGdJo4HHjrBLo3US-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=-0.008;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=cross;endFill=0;" edge="1" parent="1" source="56zHS0Pgg8HM5X0b88mt-4" target="56zHS0Pgg8HM5X0b88mt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="450" as="targetPoint" />
+            <mxPoint x="20" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGydVGdJo4HHjrBLo3US-7" value="representacion &lt;br&gt;hacia CTC ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NGydVGdJo4HHjrBLo3US-6">
+          <mxGeometry x="0.1695" y="2" relative="1" as="geometry">
+            <mxPoint x="12" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
