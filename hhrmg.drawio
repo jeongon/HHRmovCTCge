@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T09:12:21.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="texXt15qUomZVcIdBlq4" version="24.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-17T11:43:03.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_PdX6Y5atRBCMXM7qbtU" version="24.2.5" type="github" pages="9">
   <diagram name="COTS" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3217" dy="2399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -654,7 +654,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rCguhjuWXdUnH-qeHz0a" name="synoptic DIFERIMETROS">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,6 +844,9 @@
         </mxCell>
         <mxCell id="WwNKc41RmemE7EJHVcSC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WwNKc41RmemE7EJHVcSC-32" target="WwNKc41RmemE7EJHVcSC-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P45NWJUjMJy4K7Xd24Bo-1" value="SELECT * FROM usrrectopctchsrocc20200925.TOPO_SN_E_TIMER WHERE PUBLISH_ID LIKE &#39;%S31.X1/1%&#39;;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="260" width="250" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
