@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T10:41:52.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2TKPz_LpcIcMBOdE8C0I" version="24.3.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-29T10:43:11.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4VHIt7Tm8PU3LVoBRiUF" version="24.3.0" type="github" pages="10">
   <diagram name="COTS TIBRVLISTEN" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3434" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1510,7 +1510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9pBTAoc3Nz5mhNoTVzrd" name="Injector Tramas RDwriter">
-    <mxGraphModel dx="2607" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1800,8 +1800,8 @@
         <mxCell id="e1hNoQnOTWz9oDbpmY9z-8" value="2024-04-29 10:54:26 (2024-04-29 08:54:26.999000000Z): subject=&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;davinci2.ctcmv.data.notification&lt;/span&gt;, message={MESSAGE-TYPE=&quot;&lt;span style=&quot;background-color: rgb(102, 178, 255);&quot;&gt;ENCEState&lt;/span&gt;&quot; MESSAGE=&quot;&amp;lt;Message ........&amp;gt;&lt;div&gt;.....&lt;/div&gt;&lt;div&gt;&amp;lt;/Message&amp;gt;&quot;}&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="e1hNoQnOTWz9oDbpmY9z-2">
           <mxGeometry x="40" y="770" width="630" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e1hNoQnOTWz9oDbpmY9z-16" value="&amp;nbsp;cat /app/router/config/modules/msg/channels.properties&lt;div&gt;&lt;div&gt;#CTCMV&lt;/div&gt;&lt;div&gt;command/operation_CTCMV=davinci2.ctcmv.operation&lt;/div&gt;&lt;div&gt;ctcmv/notification=&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;davinci2.ctcmv.data.notification&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ctcmv/request=davinci2.ctcmv.data.request&lt;/div&gt;&lt;div&gt;ctcmv/heartbeat=&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;davinci2.ctcmv.heartbeat.notification&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;cat /app/router/config/modules/msg/adapter.properties&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DAEMON=18004&lt;/div&gt;&lt;div&gt;NETWORK=serviceip;servicemc&lt;/div&gt;&lt;div&gt;SERVICE=18004&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="e1hNoQnOTWz9oDbpmY9z-2">
-          <mxGeometry x="35" y="90" width="630" height="280" as="geometry" />
+        <mxCell id="e1hNoQnOTWz9oDbpmY9z-16" value="&amp;nbsp;cat /app/router/config/modules/msg/channels.properties&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;#CTCMV&lt;/div&gt;&lt;div&gt;command/operation_CTCMV=davinci2.ctcmv.operation&lt;/div&gt;&lt;div&gt;ctcmv/notification=&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;davinci2.ctcmv.data.notification&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ctcmv/request=davinci2.ctcmv.data.request&lt;/div&gt;&lt;div&gt;ctcmv/heartbeat=&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;davinci2.ctcmv.heartbeat.notification&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;cat /app/router/config/modules/msg/adapter.properties&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DAEMON=&lt;span style=&quot;background-color: rgb(51, 255, 51);&quot;&gt;18004&lt;/span&gt;&lt;/div&gt;&lt;div&gt;NETWORK=serviceip;servicemc&lt;/div&gt;&lt;div&gt;SERVICE=&lt;span style=&quot;background-color: rgb(51, 255, 51);&quot;&gt;18004&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="e1hNoQnOTWz9oDbpmY9z-2">
+          <mxGeometry x="35" y="90" width="630" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
