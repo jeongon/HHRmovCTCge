@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T13:43:06.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="W6w2XRp-6LpiDPMRpDJF" version="24.4.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-25T11:45:25.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mZTBKF3GAb_VKuf5n9ND" version="24.6.0" type="github" pages="11">
   <diagram name="COTS TIBRVLISTEN" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3434" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1811,6 +1811,17 @@
         </mxCell>
         <mxCell id="e1hNoQnOTWz9oDbpmY9z-16" value="&amp;nbsp;cat /app/router/config/modules/msg/channels.properties&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;#CTCMV&lt;/div&gt;&lt;div&gt;command/operation_CTCMV=davinci2.ctcmv.operation&lt;/div&gt;&lt;div&gt;ctcmv/notification=&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;davinci2.ctcmv.data.notification&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ctcmv/request=davinci2.ctcmv.data.request&lt;/div&gt;&lt;div&gt;ctcmv/heartbeat=&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;davinci2.ctcmv.heartbeat.notification&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;cat /app/router/config/modules/msg/adapter.properties&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DAEMON=&lt;span style=&quot;background-color: rgb(51, 255, 51);&quot;&gt;18004&lt;/span&gt;&lt;/div&gt;&lt;div&gt;NETWORK=serviceip;servicemc&lt;/div&gt;&lt;div&gt;SERVICE=&lt;span style=&quot;background-color: rgb(51, 255, 51);&quot;&gt;18004&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="e1hNoQnOTWz9oDbpmY9z-2">
           <mxGeometry x="35" y="90" width="630" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="coXPksK6jFo7ebKmXOUv" name="agujas Incidencia perdida">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BsLZgUt4IGzPPnqwT5B0-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="100" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
