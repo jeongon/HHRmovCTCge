@@ -2153,7 +2153,7 @@
           <mxGeometry x="610" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cJ6LIggN8JGFmj10trOP-12" value="CATENARIA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cJ6LIggN8JGFmj10trOP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="cJ6LIggN8JGFmj10trOP-1" target="cJ6LIggN8JGFmj10trOP-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2171,7 +2171,7 @@
         <mxCell id="cJ6LIggN8JGFmj10trOP-17" value="GESTOR TRENES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cJ6LIggN8JGFmj10trOP-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.808;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="cJ6LIggN8JGFmj10trOP-5" target="cJ6LIggN8JGFmj10trOP-17" edge="1">
+        <mxCell id="cJ6LIggN8JGFmj10trOP-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cJ6LIggN8JGFmj10trOP-5" target="cJ6LIggN8JGFmj10trOP-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="380" as="sourcePoint" />
             <mxPoint x="500" y="330" as="targetPoint" />
