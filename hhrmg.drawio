@@ -2126,9 +2126,6 @@
         <mxCell id="cJ6LIggN8JGFmj10trOP-1" value="test&amp;nbsp;&lt;div&gt;PSCC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zzeRaaOI-4kWcOSf3wH8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cJ6LIggN8JGFmj10trOP-2" target="zzeRaaOI-4kWcOSf3wH8-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cJ6LIggN8JGFmj10trOP-2" value="simulador" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="160" y="170" width="580" height="570" as="geometry" />
         </mxCell>
@@ -2194,7 +2191,7 @@
         <mxCell id="cJ6LIggN8JGFmj10trOP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cJ6LIggN8JGFmj10trOP-20" target="cJ6LIggN8JGFmj10trOP-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cJ6LIggN8JGFmj10trOP-26" value="protocIlo nativo DETECTORES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cJ6LIggN8JGFmj10trOP-25" vertex="1" connectable="0">
+        <mxCell id="cJ6LIggN8JGFmj10trOP-26" value="protocolo nativo DETECTORES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cJ6LIggN8JGFmj10trOP-25" vertex="1" connectable="0">
           <mxGeometry x="-0.232" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2229,18 +2226,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zzeRaaOI-4kWcOSf3wH8-1" value="MODULO RBC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zzeRaaOI-4kWcOSf3wH8-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.575;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.358;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zzeRaaOI-4kWcOSf3wH8-1" target="cJ6LIggN8JGFmj10trOP-6" edge="1">
+        <mxCell id="zzeRaaOI-4kWcOSf3wH8-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.575;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.358;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=7;fillColor=#647687;strokeColor=#314354;" parent="1" source="zzeRaaOI-4kWcOSf3wH8-1" target="cJ6LIggN8JGFmj10trOP-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="410" as="sourcePoint" />
             <mxPoint x="750" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zzeRaaOI-4kWcOSf3wH8-3" value="TELEMANDO&lt;div&gt;RBC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zzeRaaOI-4kWcOSf3wH8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zzeRaaOI-4kWcOSf3wH8-3" target="zzeRaaOI-4kWcOSf3wH8-1" edge="1">
+        <mxCell id="zzeRaaOI-4kWcOSf3wH8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="zzeRaaOI-4kWcOSf3wH8-3" target="zzeRaaOI-4kWcOSf3wH8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="590" as="targetPoint" />
           </mxGeometry>
