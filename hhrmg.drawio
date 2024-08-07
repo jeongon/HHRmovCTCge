@@ -2225,7 +2225,10 @@
         <mxCell id="cJ6LIggN8JGFmj10trOP-29" value="PSCC&lt;div&gt;TELEMANDO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zzeRaaOI-4kWcOSf3wH8-1" value="MODULO RBC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zzeRaaOI-4kWcOSf3wH8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="zzeRaaOI-4kWcOSf3wH8-1" target="cJ6LIggN8JGFmj10trOP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzeRaaOI-4kWcOSf3wH8-1" value="MODULO RBC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zzeRaaOI-4kWcOSf3wH8-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.575;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.358;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zzeRaaOI-4kWcOSf3wH8-1" target="cJ6LIggN8JGFmj10trOP-6">
@@ -2235,10 +2238,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zzeRaaOI-4kWcOSf3wH8-3" value="TELEMANDO&lt;div&gt;RBC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zzeRaaOI-4kWcOSf3wH8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zzeRaaOI-4kWcOSf3wH8-3" target="zzeRaaOI-4kWcOSf3wH8-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zzeRaaOI-4kWcOSf3wH8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zzeRaaOI-4kWcOSf3wH8-3" target="zzeRaaOI-4kWcOSf3wH8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zzeRaaOI-4kWcOSf3wH8-6" value="PROTOCLO NATIVO RBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zzeRaaOI-4kWcOSf3wH8-4">
           <mxGeometry x="-0.7875" relative="1" as="geometry">
