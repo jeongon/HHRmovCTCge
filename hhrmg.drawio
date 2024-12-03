@@ -2219,6 +2219,9 @@
         <mxCell id="cJ6LIggN8JGFmj10trOP-28" value="DETECTORES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="300" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aroD4ikLlH5EbarklQjb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shape=flexArrow;startArrow=block;endWidth=4;endSize=6.67;startWidth=4;startSize=4.67;" edge="1" parent="1" source="cJ6LIggN8JGFmj10trOP-29" target="cJ6LIggN8JGFmj10trOP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJ6LIggN8JGFmj10trOP-29" value="PSCC&lt;div&gt;TELEMANDO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="270" width="120" height="60" as="geometry" />
         </mxCell>
