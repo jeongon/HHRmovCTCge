@@ -2171,7 +2171,7 @@
         </mxCell>
         <mxCell id="cJ6LIggN8JGFmj10trOP-26" value="protocolo nativo DETECTORES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cJ6LIggN8JGFmj10trOP-25" vertex="1" connectable="0">
           <mxGeometry x="-0.232" y="3" relative="1" as="geometry">
-            <mxPoint x="15" y="-15" as="offset" />
+            <mxPoint x="-12" y="-72" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cJ6LIggN8JGFmj10trOP-24" value="CDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
