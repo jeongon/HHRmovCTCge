@@ -2868,7 +2868,7 @@
           <mxGeometry x="-14" y="497" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_w5PDt0LDgH2q-tPBsWw-14" value="ence&lt;div&gt;simulado&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="539" width="120" height="60" as="geometry" />
+          <mxGeometry x="-262" y="458" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_w5PDt0LDgH2q-tPBsWw-15" value="ctc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="512" width="120" height="60" as="geometry" />
@@ -2906,7 +2906,7 @@
             <mxPoint x="225" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_w5PDt0LDgH2q-tPBsWw-23" value="protocolo? o por apis?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_w5PDt0LDgH2q-tPBsWw-22">
+        <mxCell id="_w5PDt0LDgH2q-tPBsWw-23" value="¿protocolo? &lt;br&gt;¿o por apis?&lt;br&gt;Es necesario ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="_w5PDt0LDgH2q-tPBsWw-22">
           <mxGeometry x="-0.0396" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
