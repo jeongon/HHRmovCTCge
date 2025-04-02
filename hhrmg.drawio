@@ -2914,8 +2914,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kLzgDQrpIr0SZVf5FDGO" name="Página-17">
-    <mxGraphModel dx="788" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="kLzgDQrpIr0SZVf5FDGO" name="Grabar ejercicio Update estado CDvia">
+    <mxGraphModel dx="630" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3168,6 +3168,147 @@
         </mxCell>
         <mxCell id="BB6a_0ENFWXVBeWoAN8Z-47" value="&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;cdvia&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;isReposoEstadoSerializacion&lt;/span&gt;&lt;span style=&quot;&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;&quot;&gt; (&lt;/span&gt;&lt;span style=&quot;&quot;&gt;ocupado&lt;/span&gt;&lt;span style=&quot;&quot;&gt; || &lt;/span&gt;&lt;span style=&quot;&quot;&gt;ocupadoIntempestivo&lt;/span&gt;&lt;span style=&quot;&quot;&gt; || &lt;/span&gt;&lt;span style=&quot;&quot;&gt;enclavadoRuta&lt;/span&gt;&lt;span style=&quot;&quot;&gt; || &lt;/span&gt;&lt;span style=&quot;&quot;&gt;enclavadoDesliz&lt;/span&gt;&lt;span style=&quot;&quot;&gt; || (&lt;/span&gt;&lt;span style=&quot;&quot;&gt;bloqueo&lt;/span&gt;&lt;span style=&quot;&quot;&gt; != &lt;/span&gt;&lt;span style=&quot;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;&quot;&gt;            || (&lt;/span&gt;&lt;span style=&quot;&quot;&gt;sentidoEnclavamiento&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;getSentido&lt;/span&gt;&lt;span style=&quot;&quot;&gt;() != &lt;/span&gt;&lt;span style=&quot;&quot;&gt;SentidoEnclavamiento&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;SENTIDO_NULO&lt;/span&gt;&lt;span style=&quot;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;&quot;&gt;            || (&lt;/span&gt;&lt;span style=&quot;&quot;&gt;bloqueoDestinoImpar&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;get&lt;/span&gt;&lt;span style=&quot;&quot;&gt;() == &lt;/span&gt;&lt;span style=&quot;&quot;&gt;EstadoBloqueoDestino&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;ACTIVO&lt;/span&gt;&lt;span style=&quot;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;&quot;&gt;            || (&lt;/span&gt;&lt;span style=&quot;&quot;&gt;bloqueoDestinoPar&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;get&lt;/span&gt;&lt;span style=&quot;&quot;&gt;() == &lt;/span&gt;&lt;span style=&quot;&quot;&gt;EstadoBloqueoDestino&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;ACTIVO&lt;/span&gt;&lt;span style=&quot;&quot;&gt;)) {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;&quot;&gt;            &lt;/span&gt;&lt;span style=&quot;&quot;&gt;return&lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt;false&lt;/span&gt;&lt;span style=&quot;&quot;&gt;;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontColor=#000000;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1190" width="730" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="UVSf1JOOF2PUnxbXNGuH-1" target="UVSf1JOOF2PUnxbXNGuH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1700" />
+              <mxPoint x="630" y="1700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-4" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;.establecer()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVSf1JOOF2PUnxbXNGuH-3">
+          <mxGeometry x="0.2781" y="-3" relative="1" as="geometry">
+            <mxPoint x="-28" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-1" value="ENCE.establecerRuta(String)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="240" y="1550" width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-2" value="Ruta" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="540" y="1550" width="270" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-2">
+          <mxGeometry x="130" y="130" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-2">
+          <mxGeometry x="140" y="170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-9" value="establishingRouteACS()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="UVSf1JOOF2PUnxbXNGuH-8" parent="UVSf1JOOF2PUnxbXNGuH-2">
+          <mxGeometry x="0.0133" relative="1" as="geometry">
+            <mxPoint x="135" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="165" y="180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-2">
+          <mxGeometry x="140" y="450" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-26" value="establishingBAUForRoute()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="UVSf1JOOF2PUnxbXNGuH-25" parent="UVSf1JOOF2PUnxbXNGuH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="175" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-2">
+          <mxGeometry x="150" y="490" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-28" value="notificarEnclavamientoBAU()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="UVSf1JOOF2PUnxbXNGuH-27" parent="UVSf1JOOF2PUnxbXNGuH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="185" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-10" value="CdViaPropio" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="834" y="1550" width="270" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-10">
+          <mxGeometry x="136" y="170" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="UVSf1JOOF2PUnxbXNGuH-8" target="UVSf1JOOF2PUnxbXNGuH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-15" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#808080;&quot;&gt;enclavarSentidoRuta&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVSf1JOOF2PUnxbXNGuH-14">
+          <mxGeometry x="0.2496" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-17" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color:#c7cdd1;background-color:#191d1f;font-family:&amp;quot;Courier New&amp;quot;;font-size:10pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;enclavado&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="1730" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-18" value="CdVia" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1550" width="270" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-18">
+          <mxGeometry x="136" y="170" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="UVSf1JOOF2PUnxbXNGuH-16" target="UVSf1JOOF2PUnxbXNGuH-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="1780" />
+              <mxPoint x="1010" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-21" value="enclavarPorRuta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVSf1JOOF2PUnxbXNGuH-20">
+          <mxGeometry x="0.3333" y="-3" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-22" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color:#c7cdd1;background-color:#191d1f;font-family:&amp;quot;Courier New&amp;quot;;font-size:10pt;white-space:pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;enclavado&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1739" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-23" value="&lt;span style=&quot;background-color: rgb(25, 29, 31); padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); background-color: rgb(25, 29, 31); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(216, 216, 216);&quot;&gt;&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-size: 10pt;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;background-color:#414104;border:solid 1pt #000000;&quot;&gt;enclavadoRuta&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; = &lt;/span&gt;&lt;span style=&quot;color: rgb(141, 203, 226);&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: rgb(216, 216, 216);&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1739" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="1570" as="sourcePoint" />
+            <mxPoint x="1110" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-30" value="ENCE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="880" y="1960" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-30">
+          <mxGeometry x="45" y="100" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="UVSf1JOOF2PUnxbXNGuH-27" target="UVSf1JOOF2PUnxbXNGuH-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="2070" />
+              <mxPoint x="860" y="2070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-32" value="&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;establecerBAUSalida&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="UVSf1JOOF2PUnxbXNGuH-31">
+          <mxGeometry x="0.2235" y="2" relative="1" as="geometry">
+            <mxPoint x="-13" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-33" value="FecConnector.FecInterpreter.&lt;div&gt;FecComandos.generic.&lt;/div&gt;&lt;div&gt;FecComandoB&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="690" y="2110" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="769" y="2190" as="sourcePoint" />
+            <mxPoint x="929" y="2190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="929" y="2190" />
+              <mxPoint x="929" y="2190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-35" value="&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;establecerBAUSalida&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="UVSf1JOOF2PUnxbXNGuH-34">
+          <mxGeometry x="0.2235" y="2" relative="1" as="geometry">
+            <mxPoint x="-13" y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
