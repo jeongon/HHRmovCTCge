@@ -2915,7 +2915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kLzgDQrpIr0SZVf5FDGO" name="Grabar ejercicio Update estado CDvia">
-    <mxGraphModel dx="630" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="829" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3308,6 +3308,20 @@
         <mxCell id="UVSf1JOOF2PUnxbXNGuH-35" value="&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;establecerBAUSalida&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" vertex="1" connectable="0" parent="UVSf1JOOF2PUnxbXNGuH-34">
           <mxGeometry x="0.2235" y="2" relative="1" as="geometry">
             <mxPoint x="-13" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-37" value="BAU.&lt;div&gt;BAU&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1960" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UVSf1JOOF2PUnxbXNGuH-37">
+          <mxGeometry x="45" y="100" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="UVSf1JOOF2PUnxbXNGuH-36" target="UVSf1JOOF2PUnxbXNGuH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UVSf1JOOF2PUnxbXNGuH-40" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;.establecerBAUSalida()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UVSf1JOOF2PUnxbXNGuH-39">
+          <mxGeometry x="0.1307" y="-3" relative="1" as="geometry">
+            <mxPoint y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
