@@ -2915,7 +2915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kLzgDQrpIr0SZVf5FDGO" name="Grabar ejercicio Update estado CDvia">
-    <mxGraphModel dx="1427" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1727" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3368,8 +3368,8 @@
             <mxPoint x="-2" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6uJL8bf9I7HJUmcj6jF-87" value="EDITAR ejercicio" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1400" width="1560" height="440" as="geometry" />
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-87" value="EJERCICIO: EDITAR/LANZAR&amp;nbsp; &amp;nbsp; setState&amp;nbsp; (al entrar en edicion Ejercicio o lanzar Ejercicio)&amp;nbsp; Antes de abrir VentanaCampo" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1950" width="1560" height="440" as="geometry" />
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="X6uJL8bf9I7HJUmcj6jF-87">
           <mxGeometry relative="1" as="geometry">
@@ -3389,7 +3389,7 @@
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-9" value="ence.&lt;div&gt;Interfaces.ISimulationControlImpl.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;" vertex="1" parent="X6uJL8bf9I7HJUmcj6jF-87">
           <mxGeometry x="193.5" y="30" width="110" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="X6uJL8bf9I7HJUmcj6jF-10" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;setPostState()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6uJL8bf9I7HJUmcj6jF-87">
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-10" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;setState&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6uJL8bf9I7HJUmcj6jF-87">
           <mxGeometry x="163.5" y="300" as="geometry">
             <mxPoint x="7" y="-170" as="offset" />
           </mxGeometry>
@@ -3687,14 +3687,14 @@
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-91" value="1. 2 Establecer Ruta con BAU&amp;nbsp; (BAU SIGUIENTE DIAGRAMA)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="129" y="4210" width="1400" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="X6uJL8bf9I7HJUmcj6jF-121" value="setPostState por un Reset (STOP / Salir ejercicio)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="100" y="3650" width="930" height="470" as="geometry" />
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-121" value="EJERCICIO: SALIR DE EJERCICIO / SESION STOIP&amp;nbsp; &amp;nbsp; &amp;nbsp; setPostState por un Reset&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1410" width="1300" height="470" as="geometry" />
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" source="X6uJL8bf9I7HJUmcj6jF-72" target="X6uJL8bf9I7HJUmcj6jF-75" parent="X6uJL8bf9I7HJUmcj6jF-121">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="312" y="330" />
-              <mxPoint x="312" y="330" />
+              <mxPoint x="680" y="330" />
+              <mxPoint x="680" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3704,10 +3704,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-72" value="ence.&lt;div&gt;ENCE_HHR&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;" vertex="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
-          <mxGeometry x="142" y="40" width="200" height="360" as="geometry" />
+          <mxGeometry x="510" y="40" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-75" value="&lt;div&gt;ence.&lt;/div&gt;&lt;div&gt;ENCE.&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;" vertex="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
-          <mxGeometry x="420" y="40" width="130" height="420" as="geometry" />
+          <mxGeometry x="788" y="40" width="130" height="420" as="geometry" />
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-96" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="X6uJL8bf9I7HJUmcj6jF-75">
           <mxGeometry x="60" y="160" width="10" height="250" as="geometry" />
@@ -3763,11 +3763,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6uJL8bf9I7HJUmcj6jF-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" source="X6uJL8bf9I7HJUmcj6jF-82" target="X6uJL8bf9I7HJUmcj6jF-72" parent="X6uJL8bf9I7HJUmcj6jF-121">
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.523;exitY=0.424;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="X6uJL8bf9I7HJUmcj6jF-128" target="X6uJL8bf9I7HJUmcj6jF-72" parent="X6uJL8bf9I7HJUmcj6jF-121">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="202" y="200" />
-              <mxPoint x="202" y="200" />
+              <mxPoint x="365" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3776,16 +3775,27 @@
             <mxPoint x="8" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.37" y="170" as="targetPoint" />
+            <mxPoint x="45.000434782608515" y="170.0000000000009" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-130" value="reset()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6uJL8bf9I7HJUmcj6jF-129">
+          <mxGeometry x="0.2369" y="-1" relative="1" as="geometry">
+            <mxPoint x="-50" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-82" value="PI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
-          <mxGeometry x="32" y="50" width="30" height="300" as="geometry" />
+          <mxGeometry x="40" y="50" width="30" height="300" as="geometry" />
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-105" value="&lt;div&gt;ence.&lt;/div&gt;&lt;div&gt;EmisorEventos&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;" vertex="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
-          <mxGeometry x="742" y="30" width="130" height="410" as="geometry" />
+          <mxGeometry x="1110" y="30" width="130" height="410" as="geometry" />
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="498.75" y="320" as="sourcePoint" />
-            <mxPoint x="802" y="320" as="targetPoint" />
+            <mxPoint x="866.75" y="320" as="sourcePoint" />
+            <mxPoint x="1170" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-114" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#2f3436;&quot;&gt;encolarEventoCdViaLogico&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X6uJL8bf9I7HJUmcj6jF-113">
@@ -3795,11 +3805,11 @@
         </mxCell>
         <mxCell id="X6uJL8bf9I7HJUmcj6jF-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="507.25" y="390.0000000000009" as="sourcePoint" />
-            <mxPoint x="806.75" y="390.0000000000009" as="targetPoint" />
+            <mxPoint x="875.25" y="390.0000000000009" as="sourcePoint" />
+            <mxPoint x="1174.75" y="390.0000000000009" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="692.25" y="390" />
-              <mxPoint x="692.25" y="390" />
+              <mxPoint x="1060.25" y="390" />
+              <mxPoint x="1060.25" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3808,8 +3818,11 @@
             <mxPoint x="-3" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6uJL8bf9I7HJUmcj6jF-122" value="launch ejercicio&amp;nbsp; &amp;nbsp;(abrir Ventana Campo)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2910" width="1740" height="640" as="geometry" />
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-128" value="ence.&lt;div&gt;&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;ISimulationControlImpl&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=60;fontColor=#000000;labelBackgroundColor=default;" vertex="1" parent="X6uJL8bf9I7HJUmcj6jF-121">
+          <mxGeometry x="260" y="50" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="X6uJL8bf9I7HJUmcj6jF-122" value="EJERCICIO: EDITAR/LANZAR&amp;nbsp; &amp;nbsp; ReceptorPeticionEstado.solicitarEstadoGlobal&amp;nbsp; &amp;nbsp;(al entrar en edicion Ejercicio o lanzar Ejercicio)&amp;nbsp; Abrir VentanaCampo&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2430" width="1740" height="640" as="geometry" />
         </mxCell>
         <mxCell id="iReBZox8ExzLT2WIEjtL-9" value="&lt;div style=&quot;background-color: rgb(25, 29, 31); padding: 0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color: rgb(216, 216, 216);&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;font-size: 10pt;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; (!(&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;enclavadoRuta&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &amp;amp;&amp;amp; &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;enclavadoDesliz&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;)) {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;            &lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;if&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; (&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;refENCE&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; != &lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt; &amp;amp;&amp;amp; &lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;refENCE&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;isCdViaEnclavadoPorBAU&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;)) {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;                &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;estadoCdViaLogico&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;setEnclavadoRuta&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#8dcbe2;&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;                &lt;/span&gt;&lt;span style=&quot;color:#79abff;&quot;&gt;estadoCdViaLogico&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;setTipoEnclavamiento&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;tipoRuta&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;from_int&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#d25252;&quot;&gt;TipoRuta&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#efc090;&quot;&gt;ITINERARIO&lt;/span&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;));&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;            }&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;        }&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontColor=#000000;labelBackgroundColor=default;" parent="X6uJL8bf9I7HJUmcj6jF-122" vertex="1">
           <mxGeometry x="807" y="320" width="670" height="60" as="geometry" />
