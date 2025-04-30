@@ -4395,7 +4395,7 @@
           <mxGeometry x="60" y="188" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Wc9_5dnNyOe_4iScUbu-15" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;CARGADO EJERCICIOS&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="670" width="120" height="120" as="geometry" />
+          <mxGeometry x="500" y="670" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5Wc9_5dnNyOe_4iScUbu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.679;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Wc9_5dnNyOe_4iScUbu-15" target="5Wc9_5dnNyOe_4iScUbu-6">
           <mxGeometry relative="1" as="geometry">
