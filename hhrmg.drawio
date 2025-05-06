@@ -4391,8 +4391,8 @@
         <mxCell id="5Wc9_5dnNyOe_4iScUbu-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5Wc9_5dnNyOe_4iScUbu-7" target="5Wc9_5dnNyOe_4iScUbu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Wc9_5dnNyOe_4iScUbu-14" value="7 en 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60" y="188" width="60" height="30" as="geometry" />
+        <mxCell id="5Wc9_5dnNyOe_4iScUbu-14" value="7 en 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="60" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0uad8PLz8cqHg3ED4HS-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Wc9_5dnNyOe_4iScUbu-15" target="5Wc9_5dnNyOe_4iScUbu-6">
           <mxGeometry relative="1" as="geometry" />
