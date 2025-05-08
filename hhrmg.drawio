@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="19">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.3.0" pages="21">
   <diagram name="COTS TIBRVLISTEN" id="drJX8wcqLLmCFykuWYqo">
     <mxGraphModel dx="3434" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4485,6 +4485,178 @@
         </mxCell>
         <mxCell id="S0uad8PLz8cqHg3ED4HS-17" value="com.indra.sim.apps.ence.ComunicacionFec.states.EstadoCViaFec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1041" y="600" width="390" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FHZ2FNPdfsmB00uU8Pn7" name="conexiones FEC CTC-ENCE">
+    <mxGraphModel dx="1639" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="adrhoieZE2Zc3a0swkIf-2" value="CTC" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="370" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-3" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="370" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-4" value="FEC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-6" value="ENCE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-7" value="ENCE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="adrhoieZE2Zc3a0swkIf-14" target="adrhoieZE2Zc3a0swkIf-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="360" y="480" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="adrhoieZE2Zc3a0swkIf-4" target="adrhoieZE2Zc3a0swkIf-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-11" value="&lt;div&gt;lesBorges&lt;/div&gt;ip del ENCE&lt;div&gt;puerto del ENCE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="600" width="134" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="adrhoieZE2Zc3a0swkIf-12" target="adrhoieZE2Zc3a0swkIf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-12" value="RED FEC - ENCE" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="adrhoieZE2Zc3a0swkIf-4" target="adrhoieZE2Zc3a0swkIf-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="390" y="373" as="sourcePoint" />
+            <mxPoint x="607" y="610" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-14" value="&lt;div&gt;madrid &amp;lt;--&amp;gt;segre&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;MadBar_CSEETransport&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;NameService&lt;/div&gt;&lt;div&gt;Event&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="134" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="504" y="720" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-17" value="" style="group" vertex="1" connectable="0" parent="adrhoieZE2Zc3a0swkIf-16">
+          <mxGeometry x="20" y="-10" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-8" value="ENCE" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="adrhoieZE2Zc3a0swkIf-17">
+          <mxGeometry width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="adrhoieZE2Zc3a0swkIf-5" value="FEC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="adrhoieZE2Zc3a0swkIf-17">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HVKLddIVwAqtfQ4-cpjE" name="Página-21">
+    <mxGraphModel dx="1569" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-1" target="HjI3LbYR50arzeVhuZzJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-1" target="HjI3LbYR50arzeVhuZzJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-1" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;&quot;&gt;TraccionObjetivo&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-2" target="HjI3LbYR50arzeVhuZzJ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="300" />
+              <mxPoint x="414" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-2" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;background-color:#2f3436;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;background-color:#2f3436;&quot;&gt;TraccionSubmodoCrucero&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-4" target="HjI3LbYR50arzeVhuZzJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-4" value="doStep" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-6" target="HjI3LbYR50arzeVhuZzJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-6" target="HjI3LbYR50arzeVhuZzJ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-6" value="doStep" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="394" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-10" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;manejan sólo la tracción, no buscan objetivos&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;IConsignaTraccion&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;b&gt;doStep()&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;frenoServicio()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;getConsignaTraccion()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;getDesc()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;getModo()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;getVelocConsignada()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;setFrenoServicio()&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="20" width="280" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-11" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;TraccionSubmodoSuperaObj&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="445" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-12" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;TraccionSubmodoAproximacion&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="525" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-13" value="&lt;span style=&quot;padding: 0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span&gt;double traccion=calculoConsignaAlcanzarVelocidad&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="594" y="177.5" width="420" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-15" target="HjI3LbYR50arzeVhuZzJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-15" target="HjI3LbYR50arzeVhuZzJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-15" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;TraccionVelocidad&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-16" target="HjI3LbYR50arzeVhuZzJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-16" value="doStep" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="494" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-19" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;IConsignaTraccionCaller&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;onObjetivoAlcanzado(IConsignaTraccion)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;onTraceConsole(String)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="HjI3LbYR50arzeVhuZzJ-20" target="HjI3LbYR50arzeVhuZzJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;IConsignaTraccionSubmodo&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;getSubmodo&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="222.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-23" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#d197d9;&quot;&gt;IConsignaTraccion&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-27" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;TraccionSubmodoSuperaObj&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="587.5" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-28" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#ffffff;&quot;&gt;TraccionSubmodoAproximacion&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="667.5" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-29" value="&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;color: rgb(199, 205, 209); font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;color:#d8d8d8;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color:#bed6ff;background-color:#808080;&quot;&gt;checkFinCrucero&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="550" y="317.5" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-33" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 13.3333px; white-space: pre;&quot;&gt;if (velocObj &amp;lt;= velocCrucero)&lt;br/&gt;&#x9;checkFinCruceroTecho();&lt;br/&gt;else&lt;br/&gt;&#x9;checkFinCruceroSuelo();&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="764" y="280" width="256" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-34" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 13.3333px; white-space: pre;&quot;&gt;// Comprobamos si hay que frenar a más freno que el de confort&lt;br/&gt;if (superadaDistParaFrenoConfort())&lt;br/&gt;&#x9;caller.onObjetivoAlcanzado(this);&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;// Comprobamos si hay que acelerar a más aceleración que la de confort&lt;br/&gt;if (superadaDistParaAceleracionConfort())&lt;br/&gt;&#x9;caller.onObjetivoAlcanzado(this);&lt;br/&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="260" width="690" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HjI3LbYR50arzeVhuZzJ-35" value="&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 13.3333px; white-space: pre;&quot;&gt;ACLARAR!!!!!&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 13.3333px; white-space: pre;&quot;&gt;velocObj &lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 13.3333px; white-space: pre;&quot;&gt;velocCrucero&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color:#191d1f;padding:0px 0px 0px 2px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 10pt; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;tren&lt;/span&gt;&lt;span style=&quot;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;&quot;&gt;getEstado&lt;/span&gt;&lt;span style=&quot;&quot;&gt;().&lt;/span&gt;&lt;span style=&quot;&quot;&gt;getVeloc&lt;/span&gt;&lt;span style=&quot;&quot;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 13.3333px; white-space: pre;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="417.5" width="256" height="82.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
