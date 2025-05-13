@@ -5166,7 +5166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JSPaOmeVANMMKhLAUyps-146" value="¿ LLEGARÍAMOS ANTES DE LA HORA DE COGER EL COCHE?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A LAS 10:30&lt;br&gt;VARADERO - HABNA :&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1030" width="120" height="100" as="geometry" />
+          <mxGeometry x="1150" y="1030" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AXH1sRGMjPZe-pvb5YNz-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;strike&gt;PASAPORTES&lt;/strike&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;VISADOS&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;SEGURO VIAJE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;BILLETES VUELO&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;ALOJAMIENTO&lt;/div&gt;&lt;div&gt;&lt;strike&gt;ALQUILER COCHE&lt;/strike&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="100" y="500" width="200" height="380" as="geometry" />
