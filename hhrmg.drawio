@@ -5185,6 +5185,30 @@
             <mxRectangle width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-143" value="COCHE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=8;strokeColor=#3333FF;verticalAlign=bottom;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="820" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-144" value="CIEGO DE AVILA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;strokeColor=#FFD966;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="570" y="20" width="260" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-145" value="VARADERO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#99CCFF;strokeWidth=10;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="960" y="20" width="170" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-147" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JSPaOmeVANMMKhLAUyps-146" target="JSPaOmeVANMMKhLAUyps-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-146" value="¿ LLEGARÍAMOS ANTES DE LA HORA DE COGER EL COCHE?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-148" value="VIÑALES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC00;strokeWidth=6;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="20" width="60" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-150" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSPaOmeVANMMKhLAUyps-149" target="JSPaOmeVANMMKhLAUyps-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-149" value="viñales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
