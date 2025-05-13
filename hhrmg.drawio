@@ -4718,7 +4718,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="69uCFCDCUFK5uNTRopWi" name="Página-22">
-    <mxGraphModel dx="2522" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5168,26 +5168,20 @@
         <mxCell id="JSPaOmeVANMMKhLAUyps-146" value="¿ LLEGARÍAMOS ANTES DE LA HORA DE COGER EL COCHE?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JSPaOmeVANMMKhLAUyps-150" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JSPaOmeVANMMKhLAUyps-149" target="JSPaOmeVANMMKhLAUyps-148">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JSPaOmeVANMMKhLAUyps-149" value="viñales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="AXH1sRGMjPZe-pvb5YNz-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;strike&gt;PASAPORTES&lt;/strike&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;VISADOS&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;SEGURO VIAJE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;BILLETES VUELO&lt;/strike&gt;&lt;/div&gt;&lt;div&gt;ALOJAMIENTO&lt;/div&gt;&lt;div&gt;ALQUILER COCHE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="100" y="500" width="200" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="JSPaOmeVANMMKhLAUyps-148" value="VIÑALES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC00;strokeWidth=6;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="JSPaOmeVANMMKhLAUyps-148" value="¿&lt;div&gt;VIÑALES&lt;/div&gt;&lt;div&gt;?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC00;strokeWidth=6;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1300" y="20" width="60" height="990" as="geometry" />
         </mxCell>
         <mxCell id="JSPaOmeVANMMKhLAUyps-145" value="VARADERO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#99CCFF;strokeWidth=10;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="955" y="20" width="170" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="JSPaOmeVANMMKhLAUyps-144" value="CIEGO DE AVILA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;strokeColor=#FFD966;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="540" y="70" width="260" height="710" as="geometry" />
-        </mxCell>
         <mxCell id="JSPaOmeVANMMKhLAUyps-143" value="COCHE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=8;strokeColor=#3333FF;verticalAlign=bottom;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="370" y="20" width="820" height="1000" as="geometry" />
+          <mxGeometry x="390" y="15" width="820" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="JSPaOmeVANMMKhLAUyps-144" value="CIEGO DE AVILA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;strokeColor=#FFD966;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="260" height="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
